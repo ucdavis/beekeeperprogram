@@ -45,45 +45,7 @@
 
 
 <body>
-    <header>
-    <div class="header_contents">
-        <div class="left_head">
-            <div class="logo_wrapper">
-                <a href="/"><img class="logo" src="/media/logo.svg" alt="Edible Campus at UC Davis"></a>
-            </div>
-            <nav id="nav" role="navigation">
-        <a class="nav_open" href="#nav" title="Show navigation"><i class="fa fa-bars"></i></a>
-        <a class="nav_close" href="#" title="Hide navigation"><i class="fa fa-times"></i></a>
-        <ul id="nav_upperlevel">
-            <li>
-                <a href="/about">About</a>
-            </li>
-            <li>
-                <a href="/gardens">Gardens</a>
-            </li>
-            <li>
-                <a href="/blog">Blog</a>
-            </li>
-            <li>
-                <a href="/events">Events</a>
-            </li>
-            <li>
-                <a href="/support">Get Involved</a>
-            </li>
-        </ul>
-    </nav>
-        </div>
-        <div class="right_head">
-            <div class="search_wrapper">
-                <a href="https://www.ucdavis.edu/"><img src="/media/ucdavis.svg" alt=""></a>
-                <!-- <form>
-                    <input class="search_input st-default-search-input" type="text" value="">
-                </form> -->
-            </div>
-        </div>
-    </div>
-</header>
- <div class="main">
+    <div class="main">
     <div class="main_contents">
         <h2>Aww man we can't find the page you are looking for</h2>
         <div class="image-wrapper">
@@ -132,55 +94,11 @@
   ga('send', 'pageview');
 
 </script>
-<!-- Modal -->
-<script>
-$('#myModal').on('shown.bs.modal', function() {
-    $('#myInput').focus()
-})
-</script>
 <!--   slider -->
 <script type="text/javascript">
 $(window).load(function() {
     $('#slider').nivoSlider();
 });
 </script>
-<!-- active nav -->
-<script type="text/javascript">
-$(function() {
-    if (location.pathname.split("/")[1]) {
-        $('nav a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('active');
-    }
-});
-</script>
-<!-- Searchpopup -->
-<script src="/js/classie.js"></script>
-<script>
-new UISearch(document.getElementById('sb-search'));
-</script>
-<script>
-$(".breadcrumb li").last().addClass('active');
-</script>
-<script>
-$(document).ready(function() {
-    $('.gallery').featherlightGallery();
-});
-</script>
-<script src="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
-<script src="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
-<script type="text/javascript">
-(function(w, d, t, u, n, s, e) {
-    w['SwiftypeObject'] = n;
-    w[n] = w[n] || function() {
-        (w[n].q = w[n].q || []).push(arguments);
-    };
-    s = d.createElement(t);
-    e = d.getElementsByTagName(t)[0];
-    s.async = 1;
-    s.src = u;
-    e.parentNode.insertBefore(s, e);
-})(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
 
-_st('install', 'TL1aeDZ_yi9s4VZV_7vW', '2.0.0');
-</script>
-<script src="/js/affix.js"></script>
 </html>
