@@ -1,10 +1,10 @@
 # Site settings
-title: Edible Campus
-email: ngdean@ucdavis.edu
+title: Beekeepers Program
+email: aharris@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Edible gardens at UC Davis.
+  Information the Beekeepers Programs at UC Davis.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ediblecampus.ucdavis.edu" # the base hostname & protocol for your site
+url: "http://CAMBP.ucdavis.edu" # the base hostname & protocol for your site
 
 permalink: pretty
 
