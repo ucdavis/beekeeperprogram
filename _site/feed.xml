@@ -1,210 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll Starter</title>
-    <description>This is a Jekyll Starter template developed by cydoval.com.
+    <title>Edible Campus</title>
+    <description>Edible gardens at UC Davis.
 </description>
-    <link>http://jekyll-starter.ucdavis.edu/</link>
-    <atom:link href="http://jekyll-starter.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jul 2016 10:17:15 -0700</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2016 10:17:15 -0700</lastBuildDate>
+    <link>http://ediblecampus.ucdavis.edu/</link>
+    <atom:link href="http://ediblecampus.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 27 Jun 2016 11:09:11 -0700</pubDate>
+    <lastBuildDate>Mon, 27 Jun 2016 11:09:11 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
-        <title>Fall Welcome</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Kansas City Food Scraps</title>
+        <description>&lt;p&gt;My grandmother was composting before ‘sustainability’ held international weight. Her fascination with her Kansas City food scraps was - despite her archetypal grandma kookiness- nothing short of visionary. Her sloping, Bermuda Grass backyard was renovated with 3 raised beds in 2004, back when I, a 9 year-old tallboy, was infatuated with dirt. Back before I knew to distinguish dirt from soil, and gave onions not a second’s thought. My grandmother’s garden was the first one I met; it was a corn-belt soliloquy, iridescent in the springtime sunshine.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Food is clearly congregative. It’s a cosmic simplicity, satiating our gurgly bellies. Though, our palettes have adjusted to expect french fries over potatoes. These simple artificial transformations have split us farther from our food, consequently, farther from our soils. The complexities of today’s food system have trained us to leapfrog parts of commodity chains, making less out of more. We now anticipate the conclusive, processed versions of the same foods originating in our backyard gardens; raw has turned refined.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;To enact change is no dainty feat, and a small garden is hardly enough for a head-nod of approval in our global food system. Regardless, real change is most positive when comprised of of passion-fueled, small but mighty little guys. The Salad Bowl Garden is one of those little guys, growing veggies for public consumption. Plants produced by the people for the people. 100% of what’s grown is for the taking, and the cleverly situated garden site stands valiantly as both a placeholder and a production zone. Nestled smack-dab in the PES (Plant and Environmental Sciences) courtyard, the Salad Bowl Garden is equal parts aesthetics and exposure. After all, what is an ag. school experience if swiss chard and peppers aren’t beckoning for your harvest as you leave class? The power in a garden is its direct path to the kitchen table from the soil. There is no processing or unnecessary additives. That swiss chard and those peppers are turned to salad, stuffed pies, chili pastes and stir fries. Not only does it encourage healthy eating, it exposes students to the kitchen, to turning what they can find outside into what they can fill their bodies with.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
+&lt;p&gt;That, more than anything else, is my grandmother’s mission statement. To turn soil to sustenance, with cooking snuggled in between. To engage young and old in the collaboration that is edible spaces, and to produce, engage and enthuse the public in a movement towards playing a more congregative, cognizant and devoted role in our food system.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 22 Jul 2016 09:25:17 -0700</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/events/2016/07/22/fall-welcome/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/events/2016/07/22/fall-welcome/</guid>
+        <pubDate>Thu, 12 May 2016 00:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/blog/2016/05/12/tbd/</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/blog/2016/05/12/tbd/</guid>
+        
+        <category>Salad</category>
+        
+        <category>Bowl</category>
+        
+        <category>Garden</category>
         
         
-        <category>events</category>
+        <category>blog</category>
         
       </item>
     
       <item>
-        <title>UC Davis Picnic Day</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>EC Garden</title>
+        <description>&lt;h2&gt;About&lt;/h2&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;The ASUCD Experimental Community Garden (ECG) is an inclusive space for people to learn about sustainable gardening, enhance health and well-being, engage in experiential learning, connect with the community, and practice environmental stewardship. Gardeners grow nourishing food, learn together, and develop lasting friendships. A unit within the Associated Students of the University of California, Davis (ASUCD), the ECG occupies five acres of organic farmland between the Domes and the Student Farm Market Garden. Plots are available for rent on an annual basis to students, faculty, staff and community members.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h2&gt;Get Involved&lt;/h2&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;For information about the ECG or to rent a plot, visit the &lt;a href=&quot;http://ecgardenwebsite.wix.com/ecgarden&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 12 Jul 2016 09:25:17 -0700</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/events/2016/07/12/picnic-day/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/events/2016/07/12/picnic-day/</guid>
+        <pubDate>Tue, 22 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/gardens/ec</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/ec</guid>
         
         
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>Nonu a major doubt for Top 14 Final</title>
-        <description>&lt;p&gt;The All Blacks centurion, who joined Toulon after winning his second Rugby World Cup last year, has endured a mixed season but scored in the last weekend’s semi-final win over Montpellier.&lt;/p&gt;
-
-&lt;p&gt;However he also appeared to suffer a concussion during a collision attemping to make a tackle on Montpellier centre Anthony Tuitavake.&lt;/p&gt;
-
-&lt;p&gt;Nonu’s absense would mean that Mathieu Bastareaud comes into the midfield to partner Maxime Mermoz at the Nou Camp.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 21 Jun 2016 09:25:17 -0700</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/news/2016/06/21/Nonu-unlikely/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/news/2016/06/21/Nonu-unlikely/</guid>
-        
-        <category>Rugby</category>
-        
-        <category>Top 14</category>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Open House</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</description>
-        <pubDate>Sun, 01 May 2016 09:25:17 -0700</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/events/2016/05/01/open-house/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/events/2016/05/01/open-house/</guid>
-        
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>June Tests: Team of the Week</title>
-        <description>&lt;p&gt;A resilient and clinical defensive effort from England secured them a first-ever series win over the Wallabies in Australia while a come-from-behind victory for the Springboks set up a third Test decider against Ireland.&lt;/p&gt;
-
-&lt;p&gt;Let’s see who made the cut.&lt;/p&gt;
-
-&lt;h3 id=&quot;june-tests-team-of-the-week&quot;&gt;June Tests: Team of the Week&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Israel Dagg (New Zealand):&lt;/strong&gt; Brought up 50 Test caps in style by showing he’s not lost much of his pace, fixing the Welsh defence for the All Blacks’ first try. Made a seriously impressive 17 carries with the ball in hand.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Ruan Combrinck (South Africa):&lt;/strong&gt; The first of two super subs in our XV, Combrinck showed why he should have started in the first place for the Springboks in this series. Steamrolled both Paddy Jackson and Jared Payne with key runs for his first try for his country and then in the build-up to Warren Whiteley’s score. Gets the nod over Liam Williams, Ben Smith and Dane Haylett-Petty.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jonathan Davies (Wales):&lt;/strong&gt; Little for Wales to cheer about after another brave effort went up in smoke, but that phenomenal hand-off from Davies en route for his try will live long in the memory. Good assist as well before half-time. Credit to Georgia’s David Kacharava for his try-scoring double in the win over Tonga.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Owen Farrell (England):&lt;/strong&gt; He might have got the winning score at Ellis Park but Damian de Allende’s lacklustre performance in the first half means he loses out to Farrell. The Saracens star kicked 13 points but it was try late on which clinched a historic series win for England. Finished with 16 tackles.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Waisake Naholo (New Zealand):&lt;/strong&gt; He won’t score an easier try than his effort against Wales but with the ball in hand Naholo cut the tourists to shreds, topping 100 metres with the ball in hand and making four clean breaks. Pips his Highlanders’ team-mate Patrick Osborne who grabbed the winning score for Fiji against Samoa to retain the Pacific Nations Cup.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;George Ford (England):&lt;/strong&gt; The fly-half excelled with his kicking game in Melbourne, frustrating the Wallabies as they were made to turn around and re-build from deep within their own half. Ford made ten tackles as he made sure that his channel was not going to be broken. All Black replacement fly-half Beauden Barrett along with Los Pumas number ten Nicolás Sánchez both get a special mention.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Aaron Smith (New Zealand):&lt;/strong&gt; The Highlanders’ scrum-half got more than just his basics right, he was an integral part of the brilliant second half performance that saw the All Blacks power past their opposition. Smith assisted with two of New Zealand’s tries. The nippy number nine gained 36 metres while the one clean break he had resulted in Beauden Barrett eventually scoring the home side’s third try. Canada scrum-half Gordon McRorie gets a special mention for his 26 points that he scored in Canada’s win over Russia.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Warren Whiteley (South Africa):&lt;/strong&gt; The replacement loose forward made a huge impact along with the introduction of a few other players in the second half of the Springboks come-from-behind win over Ireland. Whiteley’s power and skill allowed him to muscle over the try line when his side was trailing by 16 points. The Lions captain carried the ball eight times and gained 50 metres for his side while beating two defenders. All Blacks’ captain Kieran Read and England’s Billy Vunipola both get a special mention.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;James Haskell (England):&lt;/strong&gt; A tireless and fierce performance from Wasps’ captain laid the foundation for a memorable and clinical defensive effort. England made 185 tackles, of which Haskell made 23, compared to the 53 hits made by their opponents. To pull off such a remarkable victory with the lack of ball in hand that they had, the Six Nations champions’ loose forward’s effort at the breakdown deserves praise. Despite his breakaway try against Wales, All Black flank Ardie Savea narrowly misses out, as does Ireland’s Rhys Ruddock.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Chris Robshaw (England):&lt;/strong&gt; A Man of The Match performance of this calibre can hardly go unnoticed. The Harlequins stalwart was at the heart of the resilient England defence. Robshaw partnered brilliantly with the likes of second-row Itoje and fellow loose forward James Haskell as they restricted Australia’s score to seven points. He made 12 tackles and carried the ball to gain a valuable 16 metres in a game where the visitors only had 29 percent possession on his 50th cap.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Guido Petti (Argentina):&lt;/strong&gt; The Jaguares lock scored one of Los Pumas’ tries in their victory over France. The 194cm second-row burnt the France defence beating three defenders on his way to the try line. He was instrumental throughout gaining a valuable 51 metres for Argentina. Petti pips South Africa lock Pieter-Steph du Toit who was a standout performer for the Springboks along with Wales centurion lock Alun Wyn Jones.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Maro Itoje (England):&lt;/strong&gt; The 21-year-old second-rower got all his basics right, contributing towards the strong dominating England scrum and also made sure his lineout balls were taken. The European Player of The Year combined handsomely with his loose forwards to play a key role in denying the Wallabies any further score other than a single converted try. His tackle count testifies of his relentless work off the ball, as the Saracens forward made 21 tackles. Devin Toner impressed again.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Dan Cole (England):&lt;/strong&gt; He was an instrumental figure during the set pieces, the England pack overpowered their opponents with Cole grinding away at the coalface. Even a ripped shirt in the first half couldn’t stop him. In true Test rugby fashion the prop was at the heart of the dominating display of the England pack. Scotland prop WP Nel gets a special mention for his try against Japan.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Dylan Hartley (England):&lt;/strong&gt; The Saints hardman became England’s most capped hooker after he was awarded his 74th cap in the second Test against Australia. The inspirational front-rower has been instrumental for the Grand Slam winning side when they clinched a Test series for the first time ever against the Wallabies in Australia. Hartley got over the try line for his side’s opening try and played an integral part in the set pieces which saw the visitors not only dismantle Australia’s scrum on a few occasions but also dominate the breakdown. Italy hooker Ornel Gega gets a mention for his try-scoring efforts in the win over the USA.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jack McGrath (Ireland):&lt;/strong&gt; Despite being on the losing side, McGrath’s relentless work at the scrum and lineout set pieces contributed towards the visitors securing quality ball possession. His sheer power and strength was too much for his opposite number, Frans Malherbe, to contain, let alone match. The Leinster prop made it difficult for the home side to gain any form of momentum at the breakdown. McGrath also got busy on defence which saw him make eight tackles.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Tue, 12 Jan 2016 08:25:17 -0800</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/news/2016/01/12/June-Allstars/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/news/2016/01/12/June-Allstars/</guid>
-        
-        <category>Team of the week</category>
-        
-        <category>International</category>
-        
-        <category>Rugby</category>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Skivington calls time on career</title>
-        <description>&lt;p&gt;The 33-year-old, who joined Irish from Leicester Tigers ahead of the 2012-13 season, was a cornerstone of the Exiles’ pack during his 68 appearances for the club.&lt;/p&gt;
-
-&lt;p&gt;Leading from the front, the former England Saxon skippered the Exiles until his campaign was cut short through injury in October last year.&lt;/p&gt;
-
-&lt;p&gt;A product of Saracens’ Academy, Skivington made the switch to Wasps in 2001 where he went on to win four Premiership titles and two Heineken Cups before joining Leicester in 2010.&lt;/p&gt;
-
-&lt;p&gt;“I would like to say thank you to all those who have supported me throughout my playing career,” said Skivington.&lt;/p&gt;
-
-&lt;p&gt;“Wasps, Leicester and London Irish have all been great environments in which to play my rugby and each club has been a unique experience.&lt;/p&gt;
-
-&lt;p&gt;“I have been proud to captain London Irish during the last three seasons and I know the club is in good shape to return to the Premiership at the first time of asking.&lt;/p&gt;
-
-&lt;p&gt;“I would also like to thank Ealing Trailfinders and the Samoan national team for allowing me to gain valuable coaching experience during the last two years, which I hope to utilise going forward.&lt;/p&gt;
-
-&lt;p&gt;“Finally, I would like to thank my family, especially my wife who has been there for me throughout my career.”&lt;/p&gt;
-
-&lt;p&gt;Head of Rugby Operations Glenn Delaney said: “I’m bitterly disappointed for George who has been a fantastic character to have at the club both on and off the field.&lt;/p&gt;
-
-&lt;p&gt;“He’s been a great advocate of the club and will be sorely missed by staff and supporters. We wish him and his family all the very best for the future.”&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Dec 2015 08:25:17 -0800</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/news/2015/12/07/skivington/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/news/2015/12/07/skivington/</guid>
-        
-        <category>Rugby</category>
-        
-        
-        <category>news</category>
+        <category>garden</category>
         
       </item>
     
@@ -226,11 +73,55 @@
 
 </description>
         <pubDate>Mon, 23 Nov 2015 04:25:17 -0800</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/events/2015/11/23/news-article/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/events/2015/11/23/news-article/</guid>
+        <link>http://ediblecampus.ucdavis.edu/events/2015/11/23/news-article/</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/events/2015/11/23/news-article/</guid>
+        
+        <category>Apple</category>
         
         
         <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Salad Bowl Garden</title>
+        <description>&lt;h2&gt;About&lt;/h2&gt;
+
+&lt;p&gt;Started in 2008, the Salad Bowl Garden is run by students and eaten by anyone. Situated just outside the Plant and Environmental Sciences building, the Salad Bowl Garden is an interactive edible landscape where you can pick your salad and eat fresh food while at school or work. A range of crops are grown to meet staff and student preferences, be eaten raw, and follow healthy agronomic practices. Check out the garden signs to learn about vegetable varieties, water-saving irrigation techniques, organic fertilization methods, and more.&lt;/p&gt;
+
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;The garden team regularly hosts salad bowl lunches, where all are invited to harvest and enjoy their own salads. Additionally, all members of the UC Davis community are welcome to visit the garden at any time and harvest as they please!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 22 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/gardens/sbg</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/sbg</guid>
+        
+        <category>feature</category>
+        
+        
+        <category>garden</category>
+        
+      </item>
+    
+      <item>
+        <title>Edible Landscaping Internship Greenhouse</title>
+        <description>&lt;h2&gt;About&lt;/h2&gt;
+
+&lt;p&gt;Student interns of the &lt;a href=&quot;http://arboretum.ucdavis.edu/student_opportunities.aspx&quot;&gt;Edible Landscaping Internship&lt;/a&gt; propagate plants for several edible landscapes on campus and for Arboretum plant sales. Currently, these edible plants are propagated at the Environmental Horticulture greenhouses.&lt;/p&gt;
+
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;Get involved propagating edible plants through the Arboretum and Public Garden’s &lt;a href=&quot;http://arboretum.ucdavis.edu/student_opportunities.aspx&quot;&gt;Edible Landscaping Internship&lt;/a&gt;, by attending workdays or applying to be an intern.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/gardens/elig</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/elig</guid>
+        
+        
+        <category>garden</category>
         
       </item>
     
@@ -250,11 +141,95 @@
 
 </description>
         <pubDate>Tue, 22 Sep 2015 09:25:17 -0700</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</guid>
+        <link>http://ediblecampus.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</guid>
+        
+        <category>Apple</category>
         
         
         <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Viticulture &amp; Enology Teaching Vineyard</title>
+        <description>&lt;h2&gt;About&lt;/h2&gt;
+
+&lt;p&gt;The UC Davis Viticulture and Enology program planted a vineyard adjacent to the Robert Mondavi Institute for Wine and Food Science in 2011. The teaching vineyard features varieties from all over the world and is intended to provide hands-on learning for Viticulture and Enology students.&lt;/p&gt;
+
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;The RMI vineyard is for use by Viticulture and Enology students, faculty, and staff. To learn more, visit the &lt;a href=&quot;http://wineserver.ucdavis.edu/about/facilities/vineyards/Campus%20Vineyards.html&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Sep 2015 00:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/gardens/viticulture</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/viticulture</guid>
+        
+        
+        <category>garden</category>
+        
+      </item>
+    
+      <item>
+        <title>Horticulture Innovation Lab Demonstration Center</title>
+        <description>&lt;h2&gt;About&lt;/h2&gt;
+
+&lt;p&gt;The Horticulture Innovation Lab Demonstration Center displays some of the vegetables and innovative technologies that the Horticulture Innovation Lab uses with farmers around the world. This is an active site for students, faculty, and staff to test new horticultural tools and demonstrate best practices for growing fruits and vegetables — particularly those helpful to small-scale farmers in developing countries. Some of the agricultural technologies on display include a low-cost drip irrigation kit, a floating garden, postharvest cooling chambers, and solar dryers. The demonstration center is spearheaded by the Horticulture Innovation Lab and is also part of the UC Davis GATEways Project, a campuswide initiative developed by the UC Davis Arboretum and Public Garden.&lt;/p&gt;
+
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;To learn more about the demonstration center, visit the Horticulture Innovation Lab &lt;a href=&quot;http://horticulture.ucdavis.edu/main/center_ucdavis.html&quot;&gt;website&lt;/a&gt; and check out the &lt;a href=&quot;http://blog.horticulture.ucdavis.edu/2015/06/our-newest-center-here-at-uc-davis/&quot;&gt;blog&lt;/a&gt;. Student internships and research opportunities vary. Please send inquiries to &lt;a href=&quot;horticulture@ucdavis.edu&quot;&gt;horticulture@ucdavis.edu.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 22 Aug 2015 00:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/gardens/horticulture</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/horticulture</guid>
+        
+        
+        <category>garden</category>
+        
+      </item>
+    
+      <item>
+        <title>Biological Orchard and Gardens (BOG)</title>
+        <description>&lt;h2&gt;About&lt;/h2&gt;
+
+&lt;p&gt;The Biological Orchard and Gardens (BOG) is a collaboration between students, staff, and faculty to convert an underutilized landscape in the heart of campus into a living museum which showcase permaculture practices and biodiversity. A quarter of the space will feature a first-of-its-kind orchard of heirloom California fruit trees threatened with extinction. Once it is established, visitors to the garden are free to sample the harvests. The remaining space will serve as an outdoor ecological classroom, featuring drought-tolerant plants native to South Africa, the Mediterranean, Australia, Chile, and California.&lt;/p&gt;
+
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;Follow the BOG on Facebook: &lt;a href=&quot;http://www.facebook.com/ucdBOG&quot;&gt;www.facebook.com/ucdBOG&lt;/a&gt;. To join the BOG team as an intern, volunteer, or supporter, leave a message on Facebook, or contact Student Project Manager Emily Dorrance at &lt;a href=&quot;eadorrance@ucdavis.edu&quot;&gt;eadorrance@ucdavis.edu&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 Jul 2015 00:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/gardens/bog</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/bog</guid>
+        
+        
+        <category>garden</category>
+        
+      </item>
+    
+      <item>
+        <title>Student Wellness Garden</title>
+        <description>&lt;h2&gt;About&lt;/h2&gt;
+
+&lt;p&gt;On the south side of the Student Health and Wellness Center is the welcoming Student Wellness Garden. Within this Garden is the the small, organically grown Harvest Garden that offers visitors an opportunity to learn about the benefits of growing and eating fresh fruit and vegetables. Cared for by Health Education and Promotion student staff and volunteers, it serves as an area for students to enjoy and engage in garden care.&lt;/p&gt;
+
+&lt;p&gt;The Healing Patch is a medicinal garden also incorporated into the Student Wellness Garden. Many of the plants in this space are medicinal and used for ethnobotanical purposes.&lt;/p&gt;
+
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;Check out Student Health and Counseling Services &lt;a href=&quot;https://shcs.ucdavis.edu/about/shwc.html&quot;&gt;webpage&lt;/a&gt; and the SHCS Facebook page for more information, or contact &lt;a href=&quot;sconnolly@ucdavis.edu&quot;&gt;Shantille Connolly.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 22 Jun 2015 00:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/gardens/studenthealth</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/studenthealth</guid>
+        
+        
+        <category>garden</category>
         
       </item>
     
