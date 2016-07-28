@@ -4,11 +4,9 @@ title:  Homepage
 ---
 
 <div class="slider_wrapper animated fadeIn">
-    
+
     <div id="slider" class="nivoSlider">
         <img src="/media/slide1.jpg" title="#htmlcaption1" />
-        <img src="/media/slide2.jpg" title="#htmlcaption2" />
-        <img src="/media/slide3.jpg" title="#htmlcaption3" />
     </div>
     <div class="texture">
         <img src="/media/texture.svg" alt="">
@@ -25,48 +23,7 @@ title:  Homepage
     </div>
 </div>
 <div class="blog-feature">
-    
-        {% for post in site.categories.blog limit:1 %}
-        <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">
-            <span class="blog-h">{{ post.title }}</span>
-            <span class="blog-d">{{ post.description }}</span>
-            <span class="blog-a">
-                Read More
-            </span>
 
-        </a>
-            
-        </h2>
+      Hi
 
-
-        {% endfor %}
-
-</div>
-<div class="landing-feature-wrapper">
-    <div class="landing-feature">
-        <h3>Featured Garden</h3>
-        <div class="landing-feature-box">
-            {% for post in site.tags.feature %}
-                <div class="featured-garden-wrapper">
-                    <div class="featured-garden-image">
-                        <img src="/media/gardens/{{ post.imagesource }}/one.jpg" alt="">
-                    </div>
-                    <div class="featured-garden-text">
-                        <h2>
-                      <a class="post-link white-hover" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </h2>
-                    <p>{{ post.description }}</p>
-                
-                    {% if post.growing %}
-                    <p><b>What's Growing: </b><span>{{ post.growing }}</span></p>
-                    {% endif %}
-                   
-                    <a href="{{ post.url | prepend: site.baseurl }}" class="learn-more">Learn More</a>
-                    </div>
-                </div>
-            {% endfor %}
-        </div>
-        <a class="more-gardens" href="/gardens"><p>Browse all Gardens</p></a>
-    </div>
 </div>
