@@ -76,7 +76,7 @@
 }
 
 .landing-feature-wrapper {
-    background-color: $primary-color;
+    background-color: $wintersky-gray;
     padding: 2% 0% 4% 0%;
     .landing-feature {
         @include container;
@@ -85,9 +85,17 @@
             color: #fff;
         }
     }
+    /*.landing-feature-box-white{
+        background-color: #fff;
+        text-align: left;
+    }*/
     .landing-feature-box {
-        border: 1px solid rgba(255, 255, 255, 0.7);
+        /*border: 1px solid rgba(255, 255, 255, 0.7);*/
         padding: 3%;
+        text-align: center;
+        p{
+            color: #fff;
+        }
         .featured-garden-image {
             width: 47%;
             margin-right: 1.5%;
