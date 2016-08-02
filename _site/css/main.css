@@ -1113,6 +1113,9 @@ div #program-buttons {
   justify-content: space-between;
   align-content: center; }
 
+/*div #program-buttons {
+    text-align: center;
+}*/
 .landing-feature-wrapper {
   background-color: #5b7f95;
   padding: 2% 0% 4% 0%;
