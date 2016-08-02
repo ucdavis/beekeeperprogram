@@ -1071,6 +1071,48 @@ nav ul.submenu {
     color: #5a585c;
     padding-left: 1.5rem; }
 
+.landing-feature-wrapper-img {
+  background-image: url("/media/bee_flower.png");
+  background-size: cover;
+  background-position: center;
+  padding: 2% 0% 4% 0%; }
+  .landing-feature-wrapper-img .landing-feature {
+    max-width: 1400px;
+    width: 80%;
+    margin: 0 auto;
+    min-width: 300px; }
+    @media (max-width: 850px) {
+      .landing-feature-wrapper-img .landing-feature {
+        width: 85%; } }
+    @media (max-width: 640px) {
+      .landing-feature-wrapper-img .landing-feature {
+        width: 90%; } }
+    .landing-feature-wrapper-img .landing-feature h3 {
+      text-align: left;
+      color: #fff; }
+    .landing-feature-wrapper-img .landing-feature p {
+      color: #fff; }
+  .landing-feature-wrapper-img .landing-feature-box {
+    /*border: 1px solid rgba(255, 255, 255, 0.7);*/
+    padding: 3%;
+    text-align: left; }
+    .landing-feature-wrapper-img .landing-feature-box p {
+      color: #fff; }
+    .landing-feature-wrapper-img .landing-feature-box ul#resources-list > li {
+      color: #fff; }
+
+#resources-list li a {
+  color: #fff; }
+
+#resources-list a:hover {
+  color: #5b7f95; }
+
+div #program-buttons {
+  max-width: 400px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center; }
+
 .landing-feature-wrapper {
   background-color: #5b7f95;
   padding: 2% 0% 4% 0%;

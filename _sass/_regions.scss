@@ -75,6 +75,55 @@
     }
 }
 
+.landing-feature-wrapper-img {
+    background-image: url('/media/bee_flower.png');
+    background-size: cover;
+    background-position: center;
+    padding: 2% 0% 4% 0%;
+     .landing-feature {
+        @include container;
+        h3 {
+            text-align: left;
+            color: #fff;
+        }
+        p{
+            color: #fff;
+        }
+       
+    }
+    .landing-feature-box {
+        /*border: 1px solid rgba(255, 255, 255, 0.7);*/
+        padding: 3%;
+        text-align: left;
+        p {
+            color: #fff;
+        }
+        ul#resources-list > li{
+            color: #fff;
+        }
+        
+}
+}
+
+
+
+#resources-list li a{
+    color: #fff;
+}
+
+#resources-list a:hover {
+    color: $wintersky-gray;
+}
+
+div #program-buttons {
+    max-width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+
+
 .landing-feature-wrapper {
     background-color: $wintersky-gray;
     padding: 2% 0% 4% 0%;
