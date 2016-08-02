@@ -1108,6 +1108,7 @@ nav ul.submenu {
   color: #5b7f95; }
 
 div #program-buttons {
+  margin: 0 auto;
   max-width: 400px;
   display: flex;
   flex-direction: row;
