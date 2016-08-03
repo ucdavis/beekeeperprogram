@@ -238,6 +238,9 @@ span.growing {
   color: #5a585c;
   font-size: 1.2rem; }
 
+p.large-intro {
+  font-size: 2.4rem; }
+
 *,
 *:after,
 *:before {
